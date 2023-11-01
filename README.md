@@ -19,7 +19,6 @@ Major League Hacking / Most Creative Use of Redis Cloud
 
 
 ## Usage
-***Note: All API keys shown in history are outdated or ineffective, you will need to replace them with your own api keys.***
 
 **To use you will need to create a creds.py file with the following format:**
 
