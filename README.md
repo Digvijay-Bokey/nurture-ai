@@ -38,4 +38,6 @@ redis_host = '[Your Credentials]'
 redis_port = '[Your Port Prefrence]'
 redis_password = '[Your Credentials]'
 ```
+## Sidenote
 
+This is a cloned version of the private repo used during the actual project in order to hide api keys from repo history. 
