@@ -1,0 +1,17 @@
+
+*.db
+*.env
+*.iml
+*.log
+*.py[cod]
+.DS_Store
+.idea/
+.vscode/
+__pycache__/
+gen/
+node_modules/
+out/
+reflex.db
+creds.py
+temp.jpg
+nurture_a1/temp.jpg
