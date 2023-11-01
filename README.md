@@ -40,5 +40,3 @@ redis_port = '[Your Port Prefrence]'
 redis_password = '[Your Credentials]'
 ```
 
-## Side Note
-We plan to keep updating this project, even though the main branch is protected please feel free to create issues for any suggestions or improvements.
