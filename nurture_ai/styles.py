@@ -1,5 +1,4 @@
 """Styles for the app."""
-
 import reflex as rx
 
 border_radius = "0.375rem"
