@@ -68,12 +68,6 @@ class FormState(rx.State):
                         _, frame = cam.read()
                         cv2.imwrite(self.TEMP_FILE, frame)
                         result = await socket.send_file(self.TEMP_FILE)
-                        #print(result)  # Storing result
-                        # Serializing json
-                        #json_object = json.dumps(result, indent=4)
-                        # Writing to sample.json
-                        #with open("sample.json", "w") as outfile:
-                         #   outfile.write(json_object)
                         for prediction in result['face']['predictions']:
                             for emotion in prediction['emotions']:
                                 if emotion['score'] > self.threshold[1]:
