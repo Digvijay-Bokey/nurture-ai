@@ -18,7 +18,9 @@ We used both Hume, Reflex, Twillo, and Redis to make this project possible.
 Major League Hacking / Most Creative Use of Redis Cloud
 
 
-## Usage
+## Usage and Requirments
+
+You will need your own Twilio SMS account, Hume API, and Redis setup.
 
 **To use you will need to create a creds.py file with the following format:**
 
