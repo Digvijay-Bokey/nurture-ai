@@ -43,3 +43,7 @@ redis_password = '[Your Credentials]'
 ## Sidenote
 
 This is a cloned version of the private repo used during the actual project in order to hide api keys from repo history. 
+
+## Devpost
+
+[Devpost Link](https://devpost.com/software/nurture-m7p5wg)
